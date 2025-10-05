@@ -1,13 +1,11 @@
 # 💰 Flutter Expense Tracker App
 
-🛠️ **Technologies:** Flutter, Dart, Material Design, Cupertino, intl, uuid
-
----
-
 ## 📱 Overview
 The **Expense Tracker App** is a Flutter-based mobile application designed to help users manage their personal expenses efficiently.  
 It allows users to **add, delete, categorize, and visualize** expenses through an interactive and responsive user interface.  
 The app supports both **light and dark modes**, and adapts to different screen sizes (phone/tablet, portrait/landscape).
+
+🛠️ **Technologies:** Flutter, Dart, Material Design, Cupertino, intl, uuid
 
 📅 **Developed:** July 2024  
 
